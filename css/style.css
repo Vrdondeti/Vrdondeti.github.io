@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Vrdondeti's Data Science Portfolio" />
+  <title>Vrdondeti | Data Science Portfolio</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vrdondeti</h1>
+    <p>Data Science Portfolio | AI & ML Projects</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a data science enthusiast with experience in machine learning, generative AI, and data visualization. This portfolio showcases the projects I've built to explore real-world business problems using Python, APIs, and modern data science techniques.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/AI-Math-Tutor-Chatbot" target="_blank">Interactive AI Math Tutor</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/COVID19-RAG-Question-Answering" target="_blank">COVID-19 Question Answering with RAG</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/customer-churn-prediction" target="_blank">Customer Churn Prediction</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/Fake-News-Detection-Using-NLP" target="_blank">Fake News Detection Using NLP</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/Childcare-Affordability-Analysis" target="_blank">Childcare Affordability Analysis</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/Hospital-Readmissions-Analysis" target="_blank">Healthcare Readmission Analysis</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/TSA-Complaints-Analysis" target="_blank">TSA Complaints Analysis</a></li>
+      <li><a href="https://github.com/Vrdondeti/data-science-projects/tree/main/Weather-Lookup-App" target="_blank">Interactive Weather Forecast App</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <ul>
+      <li><a href="mailto:your.email@example.com">📧 your.email@example.com</a></li>
+      <li><a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a></li>
+      <li><a href="https://github.com/Vrdondeti" target="_blank">GitHub</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vrdondeti. All rights reserved.</p>
+  </footer>
+</body>
+</html>
