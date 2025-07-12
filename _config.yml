@@ -1,0 +1,22 @@
+# -------------------------------------------
+# Jekyll Configuration File (_config.yml)
+# -------------------------------------------
+# This file contains settings that control the behavior 
+# of your Jekyll website built with GitHub Pages.
+#
+# You can set site-wide parameters such as the site title,
+# description, base URL, theme, plugins, and author info.
+#
+# Modify these values to customize your portfolio site.
+#
+# Comments start with '#' and are ignored by Jekyll.
+# -------------------------------------------
+
+title: Vema Reddi Dondeti
+description: Data Science Portfolio | AI Projects
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
